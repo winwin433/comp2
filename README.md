@@ -3,7 +3,7 @@
 In this competition, you must write an algorithm that can set prices in dynamic competition against one opponent. 
 
 In order to have the correct version of `game_tournament` consider starting with 
-``bash
+``$ 
 pip install git+https://github.com/GamEconCph/game-tournament
 ``
 
